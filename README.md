@@ -8,7 +8,7 @@ This repository contains all the practical tasks and applications developed duri
 ### 1. FirstApplication
 * Basic introductory app covering Android Studio project structure, Activity lifecycle, and simple UI layouts.
 
-### 2. My1stApp (AI Chatbot)
+### 2. AI Chatbot
 * An AI-powered interactive chatbot application built with Kotlin.
 * Integrated Groq API using Volley HTTP networking to handle user prompts and display model responses.
 * Safe handling of credentials using `local.properties` and `BuildConfig`.
